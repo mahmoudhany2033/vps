@@ -5,7 +5,7 @@ on:
       ngrok_download_url:
         description: 'Past the ngrok Windows (amd64) ZIP direct download link here'
         required: true
-        default: 'https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip'
+        default: 'https://bin.ngrok.com/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip'
  
 jobs:
   build:
